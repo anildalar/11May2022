@@ -1,0 +1,26 @@
+CSS Selectors
+
+1. ID Selector #
+
+			syntax
+			# = Hash symbol
+			element#id{
+						property:value;	
+						P:V;	
+			}
+
+2. Class Selector .
+
+Where you can write the css code ?
+1. Inside head tag
+
+/*
+	Muli Line COmment Block
+*/
+
+element = tag
+
+File (style.css) Address
+1. Relative Adsress
+2. Absolute Address  http
+	
